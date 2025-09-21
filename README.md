@@ -1,2 +1,6 @@
-# first-program-
-program 1st
+#include <stdio.h>
+int main()
+{
+    printf("Hello Robotics");
+    return0;
+}
